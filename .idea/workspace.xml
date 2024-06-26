@@ -7,6 +7,10 @@
     <list default="true" id="4aef05d6-f1f0-4b2d-9566-e3ea81dd56b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Project2024/listoffilmsapp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project2024/webflix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listoffilmsapp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,7 +59,8 @@
       <workItem from="1715910029384" duration="255000" />
       <workItem from="1719398871435" duration="883000" />
       <workItem from="1719400394789" duration="2961000" />
-      <workItem from="1719405081146" duration="306000" />
+      <workItem from="1719405081146" duration="1069000" />
+      <workItem from="1719418462679" duration="368000" />
     </task>
     <servers />
   </component>
